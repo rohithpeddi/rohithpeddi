@@ -17,25 +17,19 @@ My research focuses on developing algorithms that enable machines to understand 
 
 3. **🤖 Transfer of Observed Interactions to Robots**  
    Adapting observed human interactions to specific robotic embodiments.  
-   - Enabling robots to interpret, understand, and replicate human interactions effectively  
+   - Enabling robots to interpret, understand, and replicate human interactions effectively
 
----
-
-## 📚 Publications
+## 📚 Relevant Publications
 
 ### 🧠 Interpretation (Long-Tail Learning, Robust Learning)  
-- **UAI 2022**  
-- **NeurIPS 2024**  
-- Under review at **CVPR 2025** and **ACL 2025**
+(1) **UAI 2022** , (2) **NeurIPS 2024**, Under review at (3) **CVPR 2025** and (4) **ACL 2025**
 
 ### 🔗 Anticipation (Relational Anticipation)  
-- **ECCV 2024**  
-- Under review at **CVPR 2025** and **ACL 2025**
+(5) **ECCV 2024** (Oral), Under review at (3) **CVPR 2025** and (6) **ACL 2025**
 
 ### 🛠️ Transfer (Skill Learning)  
-- **IROS 2024**  
-- Under review at **RSS 2025**
+(7) **IROS 2024** (Oral), Under review at (8) **RSS 2025**
 
 ---
 
-Feel free to reach out if you share similar research interests or want to collaborate!
+Feel free to reach out via [mail](rohith.peddi@utdallas.edu) if you share similar research interests or want to collaborate!
