@@ -25,10 +25,10 @@ My research focuses on developing algorithms that enable machines to understand 
 (1) **UAI 2022** , (2) **NeurIPS 2024**, Under review at (3) **CVPR 2025** and (4) **ACL 2025**
 
 ### 🔗 Anticipation (Relational Anticipation)  
-(5) **ECCV 2024** (Oral), Under review at (3) **CVPR 2025** and (6) **ACL 2025**
+(5) **ECCV 2024** (Oral), Under review at (3) **CVPR 2025** and (4) **ACL 2025**
 
 ### 🛠️ Transfer (Skill Learning)  
-(7) **IROS 2024** (Oral), Under review at (8) **RSS 2025**
+(6) **IROS 2024** (Oral), Under review at (7) **RSS 2025**
 
 ---
 
