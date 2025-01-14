@@ -22,10 +22,10 @@ My research focuses on developing algorithms that enable machines to understand 
 ## 📚 Relevant Publications
 
 ### 🧠 Interpretation (Long-Tail Learning, Robust Learning)  
-(1) **UAI 2022** , (2) **NeurIPS 2024**, Under review at (3) **CVPR 2025** and (4) **ACL 2025**
+(1) **UAI 2022** , (2) **NeurIPS 2024**, Under review at (3) **CVPR 2025** and (4) **ICCV 2025**
 
 ### 🔗 Anticipation (Relational Anticipation)  
-(5) **ECCV 2024** (Oral), Under review at (3) **CVPR 2025** and (4) **ACL 2025**
+(5) **ECCV 2024** (Oral), Under review at (3) **CVPR 2025** and (4) **ICCV 2025**
 
 ### 🛠️ Transfer (Skill Learning)  
 (6) **IROS 2024** (Oral), Under review at (7) **RSS 2025**
