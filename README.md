@@ -28,7 +28,7 @@ My research focuses on developing algorithms that enable machines to understand 
 (5) **ECCV 2024** (Oral), Under review at (3) **CVPR 2025** and (4) **ICCV 2025**
 
 ### 🛠️ Transfer (Skill Learning)  
-(6) **IROS 2024** (Oral), Under review at (7) **RSS 2025**
+(6) **IROS 2024** (Oral), Under review at (7) **IROS 2025**
 
 ---
 
