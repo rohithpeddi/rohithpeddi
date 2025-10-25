@@ -2,7 +2,7 @@
 
 I am a **Ph.D. student in Computer Science** at the **UT Dallas**, working under the guidance of [Dr. Vibhav Gogate](https://personal.utdallas.edu/~vibhav.gogate/) and [Dr. Yu Xiang](https://yuxng.github.io/). 
 
-Before starting my Ph.D., I earned my undergraduate degree from **IIT Kharagpur** and worked as an **R&D Engineer** at **Next Education India Pvt Ltd.** and **ZeMoSo Labs Pvt Ltd.** 
+Before starting my Ph.D., I earned my undergraduate degree from **IIT Kharagpur** and recently interned at **LinkedIn (Sunnyvale, CA)**
 
 
 ## 📚 Relevant Publications
