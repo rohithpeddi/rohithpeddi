@@ -4,22 +4,6 @@ I am a **Ph.D. student in Computer Science** at the **UT Dallas**, working under
 
 Before starting my Ph.D., I earned my undergraduate degree from **IIT Kharagpur** and worked as an **R&D Engineer** at **Next Education India Pvt Ltd.** and **ZeMoSo Labs Pvt Ltd.** 
 
-## 🧩 Research Focus
-
-My research focuses on developing algorithms that enable machines to understand human interactions:
-
-1. **🎥 Accurate Interpretation of Human Interactions**  
-   By integrating multiple data modalities—vision, text, and audio—I aim to answer the **_what_** of observed interactions.  
-   - Tackling challenges in robust learning  
-   - Addressing issues in long-tailed recognition  
-
-2. **🔮 Anticipation of Human Interactions**  
-   Exploring the **_why_** behind actions to enhance AI systems' ability to anticipate future interactions.  
-   - Leveraging underlying priors for predictive AI behaviour  
-
-3. **🤖 Transfer of Observed Interactions to Robots**  
-   Adapting observed human interactions to specific robotic embodiments.  
-   - Enabling robots to interpret, understand, and replicate human interactions effectively
 
 ## 📚 Relevant Publications
 
