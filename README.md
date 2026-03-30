@@ -7,14 +7,14 @@ Before starting my Ph.D., I earned my undergraduate degree from **IIT Kharagpur*
 
 ## 📚 Relevant Publications
 
-### 🧠 Interpretation (Long-Tail Learning, Robust Learning)  
-(1) **UAI 2022** , (2) **NeurIPS 2024**, (3) **CVPR 2025 (Highlight)** and (4) **In Preparation 2026**
+### 🧠 Interpretation   
+(1) **UAI 2022** , (2) **NeurIPS 2024**, (3) **CVPR 2025 (Highlight)** and (4) **Under Review 2026**
 
 ### 🔗 Anticipation (Relational Anticipation)  
 (5) **ECCV 2024 (Oral)** , (3) **CVPR 2025 (Highlight)** and (6) **In Preparation 2026**
 
 ### 🛠️ Transfer (Skill Learning)  
-(7) **IROS 2024** (Oral), (8) **In Preparation 2026**
+(7) **IROS 2024** (Oral), (8) **Under Review 2026**, (8) **In Preparation 2026**
 
 ---
 
