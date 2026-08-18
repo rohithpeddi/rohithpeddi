@@ -2,19 +2,22 @@
 
 I am a **Ph.D. student in Computer Science** at the **UT Dallas**, working under the guidance of [Dr. Vibhav Gogate](https://personal.utdallas.edu/~vibhav.gogate/) and [Dr. Yu Xiang](https://yuxng.github.io/). 
 
-Before starting my Ph.D., I earned my undergraduate degree from **IIT Kharagpur** and recently interned at **LinkedIn (Sunnyvale, CA)**
-
+Before starting my Ph.D., I earned my undergraduate degree from **IIT Kharagpur** and interned at **LinkedIn (Sunnyvale, CA), Dolby Laboratories (San Francisco, CA)**
 
 ## 📚 Relevant Publications
 
-### 🧠 Interpretation   
-(1) **UAI 2022** , (2) **NeurIPS 2024**, (3) **CVPR 2025 (Highlight)** and (4) **Under Review 2026**
+### World Models - Renderers
+(1) **Under Review 2026** (2) **Under Review 2026** (3) **Under Review 2026**
 
-### 🔗 Anticipation 
-(5) **ECCV 2024 (Oral)** , (3) **CVPR 2025 (Highlight)** and (6) **In Preparation 2026**
+### World Models - Simulators (🛠️ Transfer to Robots)
+(4) **IROS 2024** (Oral), (5) **In Preparation 2026**, (6) **In Preparation 2026**
 
-### 🛠️ Transfer 
-(7) **IROS 2024** (Oral), (8) **In Preparation 2026**, (9) **In Preparation 2026**
+### World Models - Planners (🔗 Anticipation )
+(7) **ECCV 2024 (Oral)** , (8) **CVPR 2025 (Highlight)**, (9) **NeurIPS 2024** (10) **In Preparation 2026**
+
+### Others  
+(11) **UAI 2022** , and (12) **Under Review 2026**
+
 
 ---
 
