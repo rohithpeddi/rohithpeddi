@@ -1,8 +1,10 @@
 # 👨‍💻 About Me
 
 I am a **Ph.D. student in Computer Science** at the **UT Dallas**, working under the guidance of [Dr. Vibhav Gogate](https://personal.utdallas.edu/~vibhav.gogate/) and [Dr. Yu Xiang](https://yuxng.github.io/). 
+I was also fortunate to collaborate closely with [Dr. Parag Singla](https://www.cse.iitd.ac.in/~parags/)
 
-Before starting my Ph.D., I earned my undergraduate degree from **IIT Kharagpur** and interned at **LinkedIn (Sunnyvale, CA), Dolby Laboratories (San Francisco, CA)**
+Recently I have interned at **LinkedIn (Sunnyvale, CA) - Summer 2025, Dolby Laboratories (San Francisco, CA) - Summer 2026**.
+Before starting my Ph.D., I earned my undergraduate degree from **IIT Kharagpur**.
 
 ## 📚 Relevant Publications
 
@@ -17,7 +19,6 @@ Before starting my Ph.D., I earned my undergraduate degree from **IIT Kharagpur*
 
 ### Others  
 (11) **UAI 2022** , and (12) **Under Review 2026**
-
 
 ---
 
